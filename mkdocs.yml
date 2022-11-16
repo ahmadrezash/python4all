@@ -1,0 +1,17 @@
+site_name: پایتون برای همه
+theme: 
+  name: material
+  font:
+    text: Vazirmatn
+    code: Roboto Mono
+  palette:
+    primary: blue
+    accent: blue
+  favicon: src/img/logo.png
+  logo: src/img/logo.png
+  language: fa
+  direction: rtl
+
+nav:
+  - خانه: index.md
+  - آموزش: learnings/index.md
