@@ -1,7 +1,9 @@
 # Condition
 ## Simple If statemnet
 
-![[Pasted image 20221205235018.png ]]
+<!-- ![[Pasted image 20221205235018.png ]] -->
+![](../src/img/Pasted%20image%2020221205235018.png)
+
 
 ```python title="if"
 if 13 > 12:
@@ -10,7 +12,9 @@ if 13 > 12:
 
 ## Else statement
 
-![[Pasted image 20221205235231.png]]
+<!-- ![[Pasted image 20221205235231.png]] -->
+![](../src/img/Pasted%20image%2020221205235231.png)
+
 ```python
 if a > b:
 	print("a greater than b")
@@ -20,6 +24,7 @@ else:
 
 ## Else if statement
 ![[Pasted image 20221205235329.png]]
+![](../src/img/Pasted%20image%2020221205235329.png)
 ```python
 if a >= 12:
 	print("a greater than 12")

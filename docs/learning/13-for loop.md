@@ -1,10 +1,14 @@
 # For Loop
-![[Pasted image 20221205234839.png]]
+<!-- ![[Pasted image 20221205234839.png]] -->
+![](../src/img/Pasted%20image%2020221205234839.png)
 
-![[Pasted image 20221206000255.png]]
+<!-- ![[Pasted image 20221206000255.png]] -->
+![](../src/img/Pasted%20image%2020221206000255.png)
 
 ## Flowchart
-![[20-Python4All/Pasted image 20221206003214.png]]
+<!-- ![[20-Python4All/Pasted image 20221206003214.png]] -->
+![](../src/img/Pasted%20image%2020221206003214.png)
+
 
 ## Simple For Loop
 ```python

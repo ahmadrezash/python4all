@@ -14,11 +14,12 @@
 file = open("demofile.txt","r")
 print(file.read())
 ```
----
-## Json
-![[Pasted image 20221217082534.png]]
 
----
+## Json
+<!-- ![[Pasted image 20221217082534.png]] -->
+![](../src/img/Pasted%20image%2020221217082534.png)
+
+
 ### Load json
 ```python
 import json  
@@ -32,7 +33,7 @@ y = json.loads(x)
 # the result is a Python dictionary:  
 print(y["age"])
 ```
-----
+
 
 ### Dump json
 ```python
@@ -51,7 +52,7 @@ y = json.dumps(x)
 # the result is a JSON string:  
 print(y)
 ```
----
+
 ### With file
 ```python
 import json  
@@ -68,7 +69,7 @@ outfile = open("sample.json", "w")
 # save on file
 y = json.dump(x, outfile)  
 ```
----
+
 
 ## Pickle
 - Python Pickle is used to `serialize` and `deserialize` a python object structure.

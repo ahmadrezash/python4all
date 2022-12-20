@@ -3,7 +3,9 @@
 for unknown len
 
 ## Flowchart
- ![[Pasted image 20221205234826.png]]
+ <!-- ![[Pasted image 20221205234826.png]] -->
+![](../src/img/Pasted%20image%2020221205234826.png)
+
 
 ## Simple While
 ```python

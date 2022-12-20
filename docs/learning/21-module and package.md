@@ -12,27 +12,31 @@ import mymodule
   
 mymodule.greeting("Ahmad")
 ```
----
+
 ### Naming
+
 ```python
 import mymodule as module1
   
 module1.greeting("Ahmad")
 ```
-----
+
 ### Import func from module
+
 ```python
 from mymodule import greeting
   
 Python Pickle is used to serialize and deserialize a python object structure.greeting("Ahmad")
 ```
 
----
+
 
 ## Package
 
-![[Pasted image 20221217091334.png]]
----
+<!-- ![[Pasted image 20221217091334.png]] -->
+![](../src/img/Pasted%20image%2020221217091334.png)
+
+
 ### mod1.py
 ```python
 def foo():
@@ -50,7 +54,7 @@ def bar():
 class Bar:
     pass
 ```
----
+
 
 ### usage
 ```python
@@ -59,7 +63,7 @@ pkg.mod1.foo()
 x = pkg.mod2.Bar()
 print(x)
 ```
----
+
 
 or
 
@@ -69,7 +73,9 @@ x = Qus()
 print(x)
 ```
 
----
+
 ### Big package
 ```
-![[Pasted image 20221217091712.png]]
+<!-- ![[Pasted image 20221217091712.png]] -->
+
+![](../src/img/Pasted%20image%2020221217091712.png)

@@ -41,6 +41,7 @@ use_directory_urls: true
 
 plugins:
   - section-index
+  - search
 
 markdown_extensions:
   - pymdownx.highlight:

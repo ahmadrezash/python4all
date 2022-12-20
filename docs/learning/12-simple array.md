@@ -16,8 +16,9 @@ names = ["Ahmad", "Mohammad", "Ali", "Hamed"]
 fruits = ["applae", "orange", "coconut", "blueberry"]
 ```
 
-![[Pasted image 20221206001855.png]]
- 
+<!-- ![[Pasted image 20221206001855.png]] -->
+![](../src/img/Pasted%20image%2020221206001855.png)
+
 ## Print
 ```python
 print(names)
@@ -28,7 +29,8 @@ print(fruits)
 ```
 
 ## Index
-![[Pasted image 20221206002330.png]]
+<!-- ![[Pasted image 20221206002330.png]] -->
+![](../src/img/Pasted%20image%2020221206002330.png)
 ```python
 names[0]
 >>> "Ahmad"
@@ -55,7 +57,9 @@ len(fruits)
 ```
 
 ## Append
-![[Pasted image 20221206002516.png]]
+<!-- ![[Pasted image 20221206002516.png]] -->
+![](../src/img/Pasted%20image%2020221206002516.png)
+
 ```python
 names = ["Ahmad", "Mohammad", "Ali", "Hamed"]
 names.append("Morteza")
