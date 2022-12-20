@@ -1,1 +1,2 @@
 # آموزش
+[print](./print.md)

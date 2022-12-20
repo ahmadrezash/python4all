@@ -1,17 +1,50 @@
 site_name: پایتون برای همه
 theme: 
+  palette:
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+    
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+
   name: material
   font:
     text: Vazirmatn
     code: Roboto Mono
-  palette:
-    primary: blue
-    accent: blue
+  # palette:
+  #   primary: blue
+  #   accent: blue
   favicon: src/img/logo.png
   logo: src/img/logo.png
   language: fa
   direction: rtl
 
-nav:
-  - خانه: index.md
-  - آموزش: learnings/index.md
+# nav:
+#   - خانه: index.md
+#   - آموزش: learnings/index.md
+use_directory_urls: true
+
+plugins:
+  - section-index
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
