@@ -1,12 +1,14 @@
+# Data Types
 ## Primary DataType
-![[Pasted image 20221216110143.png]]
----
+<!-- ![[Pasted image 20221216110143.png]] -->
+![](../src/img/Pasted%20image%2020221216110143.png)
+
 ## None Type
 ```python
 name = None
 print(name)
 ```
----
+
 ## Type Convertion - Casting
 ### int -> float
 ```python
@@ -23,7 +25,7 @@ print(int(y))
 count = "56"
 print(int(count))
 ```
----
+
 ### everything to str 
 ```python
 x = 12
