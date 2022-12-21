@@ -5,6 +5,8 @@
 ![](../src/img/Pasted%20image%2020221205235018.png)
 
 
+![[Pasted image 20221205235018.png ]]
+![](../src/img/Pasted%20image%2020221205235018.png)
 ```python title="if"
 if 13 > 12:
 	print("13 greater than 12")

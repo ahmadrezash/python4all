@@ -51,7 +51,7 @@ print(names)
 >> names = {"Ahmad", "Ali", "Hamed"}
 ```
 
-
+---
 ## dictionary
 - Like dictionary in real world
  <!-- ![[Pasted image 20221216161419.png]] -->

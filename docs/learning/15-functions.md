@@ -20,7 +20,7 @@ my_function("Ahmad")
 my_function("Ali")
 my_function("Hamed")
 ```
----
+
 ## Multi Argument
 ```python
 def my_function(first_name, last_name):  
@@ -28,7 +28,7 @@ def my_function(first_name, last_name):
   
 my_function("Ahmad", "Sharifian")
 ```
----
+
 
 ## Return Values
 ```python
@@ -39,7 +39,7 @@ print(my_function(3))
 print(my_function(5))  
 print(my_function(9))
 ```
----
+
 
 ## Pass
 - not define func

@@ -15,7 +15,7 @@ output:
 20
 0.8
 ```
----
+
 ## Priority
 - ()
 - *  and / 
@@ -26,7 +26,7 @@ output:
 ```python
 print(2 * (4 + 3)**2 / 5 - 7 )
 ```
----
+
 
 ## Error
 - negativ in log
