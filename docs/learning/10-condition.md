@@ -2,7 +2,7 @@
 ## Simple If statemnet
 
 ![[Pasted image 20221205235018.png ]]
-
+![](../src/img/Pasted%20image%2020221205235018.png)
 ```python title="if"
 if 13 > 12:
 	print("13 greater than 12")
@@ -10,7 +10,9 @@ if 13 > 12:
 
 ## Else statement
 
-![[Pasted image 20221205235231.png]]
+<!-- ![[Pasted image 20221205235231.png]] -->
+![](../src/img/Pasted%20image%2020221205235231.png)
+
 ```python
 if a > b:
 	print("a greater than b")
@@ -19,7 +21,9 @@ else:
 ```
 
 ## Else if statement
-![[Pasted image 20221205235329.png]]
+<!-- ![[Pasted image 20221205235329.png]] -->
+![](../src/img/Pasted%20image%2020221205235329.png)
+
 ```python
 if a >= 12:
 	print("a greater than 12")
@@ -31,4 +35,4 @@ elif 5 > a:
 	print("a less than 5")
 ```
 
-[example](https://www.linkedin.com/posts/ralph-aboujaoude-diaz-40838313_technology-tech-code-ugcPost-7003775601933209600-8UjM?utm_source=share&utm_medium=member_desktop )
+<!-- [example](https://www.linkedin.com/posts/ralph-aboujaoude-diaz-40838313_technology-tech-code-ugcPost-7003775601933209600-8UjM?utm_source=share&utm_medium=member_desktop ) -->

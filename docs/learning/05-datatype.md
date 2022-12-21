@@ -35,4 +35,6 @@ print(str(x))
 print(str(y))
 ```
 
-![[Pasted image 20221218160831.png]]
+<!-- ![[Pasted image 20221218160831.png]] -->
+<!-- ![](../src/img/Pasted%20image%20221218160831.png) -->
+<!-- ![](../src/img/Pasted%20image%2020221205234826.png) -->
