@@ -1,6 +1,7 @@
 # Variable
 
 ## naming
+
 ```python
 
 _name = 2
@@ -18,7 +19,7 @@ name# = 2
 
 
 ```
----
+
 ## reserved name
 - programming words
 ```python
@@ -32,12 +33,12 @@ and
 or
 not
 ```
----
+
 ## prevented chars
 ```python
 name % $ ^ & * ( - + #
 ```
----
+
 ## _ is magic
 ```python
 _ = 12

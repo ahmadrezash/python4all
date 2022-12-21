@@ -20,7 +20,9 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-
+  
+  features:
+    - navigation.tabs
 
   name: material
   font:
