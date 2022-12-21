@@ -1,5 +1,7 @@
 site_name: پایتون برای همه
 theme: 
+  features:
+    - navigation.tabs
   palette:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
