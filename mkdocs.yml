@@ -70,4 +70,7 @@ extra:
       link: https://www.linkedin.com/in/ahmadreza-sharifianzade/
     - icon: fontawesome/solid/paper-plane
       link: mailto:<ahmad.sharif.abc@gmail.com>
+  analytics:
+    provider: google
+    property: G-RZQ78Q62Q5
 copyright: Copyright &copy; 2022 Ahmadreza Sharifianzade

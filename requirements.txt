@@ -7,3 +7,4 @@ pymdown-extensions==9.8
 # mkdocs-table-reader-plugin
 # mkdocs-awesome-pages-plugin
 mkdocs-literate-nav
+mkdocs-section-index
